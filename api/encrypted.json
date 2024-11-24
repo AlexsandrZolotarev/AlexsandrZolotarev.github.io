@@ -171,7 +171,7 @@
     {
       "id": 10,
       "brand": "Mercedes",
-      "model": "EQS 580 4MATIC SUV AMG Line",
+      "model": "Mercedes-AMG A 45 S 4MATIC+",
       "engine": "310 KW (421 hp)",
       "Fuel": "Gasoline",
       "transmission": "Automatic",
@@ -187,7 +187,7 @@
       "autonomy": "",
       "emissionsOfCO": "207 g/km",
       "category": "EQV300XLAVANTGARDECategory.svg",
-      "img": "EQS5804MATICSUVAMGLine.webp"
+      "img": "Mercedes-AMGA45S4MATIC+.webp"
     }
   ]
 }
