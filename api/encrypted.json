@@ -29,7 +29,7 @@
       "fuelConsumption": "13.6 l/100km",
       "emissionsOfCO": "308 g/km",
       "category": "Mercedes-MaybachS680Category.svg",
-      "img": "Mercedes-MaybachS680.webp"
+      "img": "MercedesMaybachS680.webp"
     },
     {
       "id": 3,
@@ -48,7 +48,7 @@
       "fuelConsumption": "7.7 l/100km",
       "emissionsOfCO": "175 g/km",
       "category": "Mercedes-AMGSL63SEPERFORMANCECategory.svg",
-      "img": "Mercedes-AMGSL63SEPERFORMANCE.webp"
+      "img": "MercedesAMGSL63SEPERFORMANCE.webp"
     },
     {
       "id": 4,
@@ -67,7 +67,7 @@
       "fuelConsumption": "5.3 l/100km",
       "emissionsOfCO": "139 g/km",
       "category": "T-Class160dSTYLECategory.svg",
-      "img": "T-Class160dSTYLE.webp"
+      "img": "TClass160dSTYLE.webp"
     },
     {
       "id": 5,
@@ -86,7 +86,7 @@
       "fuelConsumption": "5.9 l/100km",
       "emissionsOfCO": "134 g/km",
       "category": "A-Class180ProgressiveLineCategory.svg",
-      "img": "A-Class180ProgressiveLine.webp"
+      "img": "AClass180ProgressiveLine.webp"
     },
     {
       "id": 6,
@@ -103,7 +103,7 @@
       "PowerConsumption": "14.5 kWh/100km",
       "autonomy": "718 km",
       "category": "EQA250+EditionCategory.svg",
-      "img": "EQA250+Edition.webp"
+      "img": "EQA250Edition.webp"
     },
     {
       "id": 7,
@@ -187,7 +187,7 @@
       "autonomy": "",
       "emissionsOfCO": "207 g/km",
       "category": "EQV300XLAVANTGARDECategory.svg",
-      "img": "Mercedes-AMGA45S4MATIC+.webp"
+      "img": "MercedesAMGA45S4MATIC.webp"
     }
   ]
 }
