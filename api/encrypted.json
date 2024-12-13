@@ -185,6 +185,191 @@
       "emissionsOfCO": "207 g/km",
       "category": "EQV300XLAVANTGARDECategory.svg",
       "img": "MercedesAMGA45S4MATIC.webp"
+    },
+    {
+      "id": 11,
+      "brand": "Mercedes",
+      "model": "CLA",
+      "engine": "100 KW + 10 KW (136 ch + 14 ch)",
+      "Fuel": "Gasoline",
+      "transmission": "Manual",
+      "Equipment": ["AMG LineSport", "Pack Black", "Panoramic sunroof"],
+      "price": "71 749",
+      "fuelConsumption": "6.4 l/100km",
+      "emissionsOfCO": "144 g/km",
+      "monthlyRent": "1 431.70",
+      "category": "CLA180CoupeAMGLineCategory.svg",
+      "img": "CLA180CoupeAMGLine.webp"
+    },
+    {
+      "id": 12,
+      "brand": "Mercedes",
+      "model": "Mercedes-Maybach",
+      "engine": "450 KW (612 hp)",
+      "Fuel": "Gasoline",
+      "transmission": "Automatic",
+      "Equipment": [],
+      "price": "200 949",
+      "monthlyRent": "7 685.03",
+      "fuelConsumption": "13.6 l/100km",
+      "emissionsOfCO": "308 g/km",
+      "category": "Mercedes-MaybachS680Category.svg",
+      "img": "MercedesMaybachS680.webp"
+    },
+    {
+      "id": 13,
+      "brand": "Mercedes",
+      "model": "Mercedes-AMG SL 63 S E",
+      "engine": "450 KW",
+      "Fuel": "Gasoline",
+      "transmission": "Manual",
+      "Equipment": [
+        "Aerodynamics Pack AMG",
+        "Sport Pack Black AMG",
+        "Pack DYNAMIC MORE AMG"
+      ],
+      "price": "202 699",
+      "monthlyRent": "7 267.85",
+      "fuelConsumption": "7.7 l/100km",
+      "emissionsOfCO": "175 g/km",
+      "category": "Mercedes-AMGSL63SEPERFORMANCECategory.svg",
+      "img": "MercedesAMGSL63SEPERFORMANCE.webp"
+    },
+    {
+      "id": 14,
+      "brand": "Mercedes",
+      "model": "T-Class 160 d",
+      "engine": "70 KW (95 hp)",
+      "Fuel": "Diesel",
+      "transmission": "Manual",
+      "Equipment": [
+        "Headlamps high-performance LED",
+        "Lane departure warning active"
+      ],
+      "price": "39 814",
+      "monthlyRent": "963.16",
+      "fuelConsumption": "5.3 l/100km",
+      "emissionsOfCO": "139 g/km",
+      "category": "T-Class160dSTYLECategory.svg",
+      "img": "TClass160dSTYLE.webp"
+    },
+    {
+      "id": 15,
+      "brand": "Mercedes",
+      "model": "A-Class 180",
+      "engine": "100 KW + 10 KW (136 hp + 14 hp)",
+      "Fuel": "Gasoline",
+      "transmission": "Manual",
+      "Equipment": [
+        "Headlamps high-performance LED",
+        "Lane departure warning active"
+      ],
+      "price": "80 849",
+      "monthlyRent": "1 102.47",
+      "fuelConsumption": "5.9 l/100km",
+      "emissionsOfCO": "134 g/km",
+      "category": "A-Class180ProgressiveLineCategory.svg",
+      "img": "AClass180ProgressiveLine.webp"
+    },
+    {
+      "id": 16,
+      "brand": "Mercedes",
+      "model": "EQA 250+",
+      "engine": "140 KW (190 hp)",
+      "Fuel": "Electrical",
+      "transmission": "Manual",
+      "Equipment": ["Progressive Line", "LED high performance headlamp"],
+      "price": "46 950",
+      "monthlyRent": "1 298.92",
+      "fuelConsumption": "",
+      "emissionsOfCO": "0 g/km",
+      "PowerConsumption": "14.5 kWh/100km",
+      "autonomy": "718 km",
+      "category": "EQA250+EditionCategory.svg",
+      "img": "EQA250Edition.webp"
+    },
+    {
+      "id": 17,
+      "brand": "Mercedes",
+      "model": "EQV 300 XL AVANTGARDE",
+      "engine": "150 KW (204 hp)",
+      "Fuel": "Electrical",
+      "transmission": "Automatic",
+      "Equipment": [
+        "THERMOTRONIC automatic climate control",
+        "Semi-automatic rear air conditioner TEMPMATIC"
+      ],
+      "price": "19 849",
+      "monthlyRent": "1 102.47",
+      "fuelConsumption": "",
+      "PowerConsumption": "289,5 Wh/km",
+      "autonomy": "344 km",
+      "emissionsOfCO": "0 g/km",
+      "category": "EQV300XLAVANTGARDECategory.svg",
+      "img": "EQV300XLAVANTGARDE.webp"
+    },
+    {
+      "id": 18,
+      "brand": "Mercedes",
+      "model": "EQS 450+ AMG Line",
+      "engine": "265 KW (360 hp)",
+      "Fuel": "Electrical",
+      "transmission": "Automatic",
+      "Equipment": [
+        "Exterior AMG Line",
+        "AMG Line Exterior and Interior",
+        "Sport Pack Black"
+      ],
+      "price": "143 699",
+      "monthlyRent": "1 988.08",
+      "fuelConsumption": "",
+      "PowerConsumption": "16.5 kWh/100km",
+      "autonomy": "756 km",
+      "emissionsOfCO": "0 g/km",
+      "category": "EQV300XLAVANTGARDECategory.svg",
+      "img": "EQS450SedanAMGLine.webp"
+    },
+    {
+      "id": 19,
+      "brand": "Mercedes",
+      "model": "EQS 580 4MATIC SUV AMG Line",
+      "engine": "400 KW (544 hp)",
+      "Fuel": "Electrical",
+      "transmission": "Manual",
+      "Equipment": [
+        "Exterior AMG Line",
+        "Sport Pack Black",
+        "Panoramic sunroof"
+      ],
+      "price": "165 000",
+      "monthlyRent": "2 105.39",
+      "fuelConsumption": "",
+      "PowerConsumption": "18.3 kWh/100km",
+      "autonomy": "595 km",
+      "emissionsOfCO": "0 g/km",
+      "category": "EQV300XLAVANTGARDECategory.svg",
+      "img": "EQS5804MATICSUVAMGLine.webp"
+    },
+    {
+      "id": 20,
+      "brand": "Mercedes",
+      "model": "Mercedes-AMG A",
+      "engine": "310 KW (421 hp)",
+      "Fuel": "Gasoline",
+      "transmission": "Automatic",
+      "Equipment": [
+        "Sport Pack Black AMG",
+        "Integration for smartphone",
+        "Panoramic sunroof"
+      ],
+      "price": "95 549",
+      "monthlyRent": "2 643.47",
+      "fuelConsumption": "9.1 l/100km",
+      "PowerConsumption": "",
+      "autonomy": "",
+      "emissionsOfCO": "207 g/km",
+      "category": "EQV300XLAVANTGARDECategory.svg",
+      "img": "MercedesAMGA45S4MATIC.webp"
     }
   ]
 }
